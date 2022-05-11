@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/TaoLe/AndroidStudioProjects/Notes/app/src/main/res/drawable/background_add_button.xml" value="0.1355" />
+        <entry key="..\:/Users/TaoLe/AndroidStudioProjects/Notes/app/src/main/res/drawable/background_delete.xml" value="0.166" />
+        <entry key="..\:/Users/TaoLe/AndroidStudioProjects/Notes/app/src/main/res/drawable/background_dialog.xml" value="0.1355" />
+        <entry key="..\:/Users/TaoLe/AndroidStudioProjects/Notes/app/src/main/res/drawable/background_done_button.xml" value="0.1355" />
+        <entry key="..\:/Users/TaoLe/AndroidStudioProjects/Notes/app/src/main/res/drawable/background_miscellaneous.xml" value="0.1355" />
+        <entry key="..\:/Users/TaoLe/AndroidStudioProjects/Notes/app/src/main/res/drawable/background_note.xml" value="0.1355" />
+        <entry key="..\:/Users/TaoLe/AndroidStudioProjects/Notes/app/src/main/res/drawable/background_note_color_1.xml" value="0.1355" />
+        <entry key="..\:/Users/TaoLe/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_create_note.xml" value="0.22" />
+        <entry key="..\:/Users/TaoLe/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/TaoLe/AndroidStudioProjects/Notes/app/src/main/res/layout/item_container_note.xml" value="0.15775972637879435" />
+        <entry key="..\:/Users/TaoLe/AndroidStudioProjects/Notes/app/src/main/res/layout/layout_add_url.xml" value="0.25" />
+        <entry key="..\:/Users/TaoLe/AndroidStudioProjects/Notes/app/src/main/res/layout/layout_delete_note.xml" value="0.25" />
+        <entry key="..\:/Users/TaoLe/AndroidStudioProjects/Notes/app/src/main/res/layout/layout_miscellaneous.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

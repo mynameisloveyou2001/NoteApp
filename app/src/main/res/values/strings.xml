@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="my_notes">My Notes</string>
+    <string name="note_subtitle">Note SubTitle</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_url">Add Url</string>
+    <string name="add_url1">Add Url</string>
+    <string name="nh_p_url">Nhập Url</string>
+    <string name="add">Add</string>
+    <string name="cancel_dialog">Cancel Dialog</string>
+    <string name="delete_note">Delete note</string>
+    <string name="cancel">cancel</string>
+    <string name="delete">Delete</string>
+<!--    <string name="cancel">cancel</string>-->
+    <string name="are_you_sure_delete_this_note">Are you sure delete this note</string>
+    <string name="back">BACK</string>
+    <string name="t_m_ghi_ch">Tìm ghi chú</string>
+    <string name="ghi_ch">Ghi Chú</string>
+    <string name="nh_p_m_t">Nhập mô tả</string>
+    <string name="nh_p_n_i_dung">Nhập nội dung</string>
+    <string name="th_m_l_a_ch_n">Thêm lựa chọn</string>
+    <string name="ch_n_m_u">Chọn màu</string>
+    <string name="th_m_nh">Thêm ảnh</string>
+    <string name="th_m_url">Thêm URL</string>
+    <string name="x_a_ghi_ch">Xóa Ghi Chú</string>
+    <string name="x_a_ghi_ch_n_y">Xóa ghi chú này?</string>
+    <string name="x_a">Xóa</string>
+    <string name="tr_l_i">Trở Lại</string>
+<!--    <string name="th_m_url">Thêm URL</string>-->
+<!--    <string name="h_y">HỦY</string>-->
+<!--    <string name="h_y">HỦY</string>-->
+    <string name="th_m">THÊM</string>
+</resources>
